@@ -2,13 +2,17 @@
 
 We provide novel datasets for Twitter churn detection in German, as well as labeled chatbot conversation for both German and English.
 
+German Churn Intent Dataset (c) by Swisscom Switzerland
+
+Contact: Claudiu Musat 
+claudiu.musat@swisscom.com
 
 
 Please use the following citation:
 Abbet, C., & M’hamdi, M. & Giannakopoulos, A., & West, R., & Hossmann A., &, Baeriswyl, M., & Musat, C. (2018). Churn intent detection in multilingual chatbot conversations and social media. In Proceedings of the 22nd Conference on Computational Natural Language Learning (CoNLL 2018)
 
 
-German Churn Intent Dataset (c) by Swisscom Switzerland
+
 
 
 German Churn Intent Dataset is licensed under a
